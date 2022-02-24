@@ -1632,3 +1632,238 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.02.24-18.47.00:961][242]LogAudioMixer: Display: 0: FrontLeft
 [2022.02.24-18.47.00:961][242]LogAudioMixer: Display: 1: FrontRight
 [2022.02.24-18.47.15:055][252]LogTemp: Warning: Smooths the mesh vertex positions using various smoothing methods.
+[2022.02.24-18.57.48:098][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.24-18.57.55:637][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.24-18.57.58:714][520]Cmd: TRANSACTION UNDO
+[2022.02.24-18.57.58:715][520]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.24-18.57.59:222][534]Cmd: TRANSACTION UNDO
+[2022.02.24-18.57.59:222][534]LogEditorTransaction: Undo Clicking Background
+[2022.02.24-18.58.00:315][640]Cmd: TRANSACTION UNDO
+[2022.02.24-18.58.00:315][640]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.24-18.58.03:110][972]Cmd: TRANSACTION UNDO
+[2022.02.24-18.58.03:110][972]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.24-18.58.03:638][ 35]Cmd: TRANSACTION UNDO
+[2022.02.24-18.58.03:638][ 35]LogEditorTransaction: Undo Clicking Background
+[2022.02.24-18.58.04:255][ 92]Cmd: TRANSACTION UNDO
+[2022.02.24-18.58.15:618][268]LogTemp: Warning: This Tool allows you to modify the mesh based on a triangle selection. [Q] cyles through Selection Mode. [A] cycles through Face Color modes. [ and ] change brush size, < and > grow/shrink selection.
+[2022.02.24-18.58.27:034][269]LogTemp: Warning: Weld overlapping/identical border edges of the selected Mesh, by merging the vertices.
+[2022.02.24-18.58.29:106][467]LogEditorViewport: Clicking Background
+[2022.02.24-18.58.30:706][654]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySpherePC2)
+[2022.02.24-18.58.32:050][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.24-18.58.41:559][584]LogTemp: Warning: Reduce the number of triangles in the selected Mesh using various strategies.
+[2022.02.24-18.58.50:846][437]LogTemp: Warning: Retriangulate the selected Mesh. Use the Boundary Constraints to preserve mesh borders. Enable Discard Attributes to ignore UV/Normal Seams. 
+[2022.02.24-18.58.53:825][672]LogStaticMesh: Building static mesh TemplateFloor...
+[2022.02.24-18.58.53:953][672]LogStaticMesh: Built static mesh [0.13s] /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2022.02.24-18.58.53:982][672]LogStaticMesh: Warning: TemplateFloor has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.02.24-18.58.53:982][672]LogStaticMesh: Warning: TemplateFloor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.02.24-18.58.55:744][798]LogTemp: Warning: Select Triangles to edit mesh. Q to toggle Gizmo Orientation Lock.
+[2022.02.24-18.59.11:432][ 74]LogTemp: Warning: Select Triangles to edit mesh. Q to toggle Gizmo Orientation Lock.
+[2022.02.24-18.59.42:560][346]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySpherePC2)
+[2022.02.24-18.59.44:460][416]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySpherePC2)
+[2022.02.24-18.59.46:081][474]LogStaticMesh: Building static mesh TemplateFloor...
+[2022.02.24-18.59.46:211][474]LogStaticMesh: Built static mesh [0.13s] /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2022.02.24-18.59.46:241][474]LogStaticMesh: Warning: TemplateFloor has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.02.24-18.59.46:241][474]LogStaticMesh: Warning: TemplateFloor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.02.24-18.59.49:946][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.24-18.59.53:165][118]LogTemp: Warning: Weld overlapping/identical border edges of the selected Mesh, by merging the vertices.
+[2022.02.24-18.59.55:936][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.24-18.59.56:057][387]LogEditorViewport: Clicking on Component (LMB): SimpleDynamicMeshComponent (DynamicMesh)
+[2022.02.24-18.59.56:657][441]LogEditorViewport: Clicking on Component (LMB): SimpleDynamicMeshComponent (DynamicMesh)
+[2022.02.24-19.00.08:517][545]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (TemplateFloor)
+[2022.02.24-19.00.09:163][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.24-19.00.10:339][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.24-19.00.10:764][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.24-19.00.50:966][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.02.24-19.00.51:116][860]LogSavePackage: Moving 'D:/Chris/UEprojects/Project2MaxChris/Saved/VRTemplateMap_Auto3B67D60F547B2C163515B96AA2C2A54DF.tmp' to 'D:/Chris/UEprojects/Project2MaxChris/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3.umap'
+[2022.02.24-19.00.51:129][860]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.186
+[2022.02.24-19.00.51:129][860]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.186
+[2022.02.24-19.00.51:130][860]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/TemplateFloor] ([1] browsable assets)...
+[2022.02.24-19.00.51:148][860]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/TemplateFloor.TemplateFloor]
+[2022.02.24-19.00.51:148][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/TemplateFloor]
+[2022.02.24-19.00.51:148][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/TemplateFloor" FILE="D:/Chris/UEprojects/Project2MaxChris/Saved/Autosaves/Game/Geometry/Meshes/TemplateFloor_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.02.24-19.00.51:268][860]LogSavePackage: Moving 'D:/Chris/UEprojects/Project2MaxChris/Saved/TemplateFloor_Auto3A6AC855C455A80ADAAFB07BDDC9DBF05.tmp' to 'D:/Chris/UEprojects/Project2MaxChris/Saved/Autosaves/Game/Geometry/Meshes/TemplateFloor_Auto3.uasset'
+[2022.02.24-19.00.51:271][860]LogFileHelpers: Auto-saving content packages took 0.142
+[2022.02.24-19.07.34:920][646]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\cblah\Downloads\quarry_04_4k.exr)
+[2022.02.24-19.07.36:056][646]LogTexture: Display: Building textures: quarry_04_4k (RGBA16F, 4096X2048)
+[2022.02.24-19.07.49:762][793]Cmd: TRANSACTION UNDO
+[2022.02.24-19.07.49:762][793]LogEditorTransaction: Undo Edit Only Unique
+[2022.02.24-19.08.17:319][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/quarry_04_4k" FILE="D:/Chris/UEprojects/Project2MaxChris/Content/StarterContent/quarry_04_4k.uasset" SILENT=true
+[2022.02.24-19.08.27:597][ 78]LogSavePackage: Moving 'D:/Chris/UEprojects/Project2MaxChris/Saved/quarry_04_4kC8C5F02B42B0082030B21E9D6D5653BB.tmp' to 'D:/Chris/UEprojects/Project2MaxChris/Content/StarterContent/quarry_04_4k.uasset'
+[2022.02.24-19.08.27:730][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.02.24-19.08.27:754][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.02.24-19.08.27:768][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.02.24-19.08.27:927][ 78]AssetCheck: New page: Asset Save: quarry_04_4k
+[2022.02.24-19.08.27:927][ 78]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/quarry_04_4k.quarry_04_4k
+[2022.02.24-19.08.41:004][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/HDRI/quarry_04_4k" FILE="D:/Chris/UEprojects/Project2MaxChris/Content/StarterContent/HDRI/quarry_04_4k.uasset" SILENT=true
+[2022.02.24-19.08.50:947][928]LogSavePackage: Moving 'D:/Chris/UEprojects/Project2MaxChris/Saved/quarry_04_4k8F063AAF41ADBBD6884B5DB10F3C1B2D.tmp' to 'D:/Chris/UEprojects/Project2MaxChris/Content/StarterContent/HDRI/quarry_04_4k.uasset'
+[2022.02.24-19.08.51:081][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.02.24-19.08.51:105][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.02.24-19.08.51:120][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.02.24-19.08.51:208][928]AssetCheck: New page: Asset Save: quarry_04_4k
+[2022.02.24-19.08.51:208][928]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/HDRI/quarry_04_4k.quarry_04_4k
+[2022.02.24-19.09.04:966][848]LogMaterial: Display: Missing cached shadermap for M_StatueGlass in PCD3D_SM5, Default, SM5 (DDC key hash: 97A677760A1208FF3A475D156EC0ACE6B83E86C5), compiling. 
+[2022.02.24-19.09.05:139][848]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Low' priority
+[2022.02.24-19.09.05:160][848]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2022.02.24-19.09.05:160][848]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2022.02.24-19.09.05:160][848]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2022.02.24-19.09.05:160][848]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2022.02.24-19.10.15:891][802]LogMaterial: Display: Missing cached shadermap for M_Metal_Chrome in PCD3D_SM5, Default, SM5 (DDC key hash: DE5B1A7F5657C3C2E7D28EE80F73229F6EF0D4B7), compiling. 
+[2022.02.24-19.10.15:938][802]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.02.24-19.10.29:780][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.24-19.10.29:930][832]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2022.02.24-19.10.29:930][832]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.24-19.10.29:930][832]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.24-19.10.29:930][832]LogShaderCompilers: Display: Total job queries 193, among them cache hits 6 (3.11%)
+[2022.02.24-19.10.29:930][832]LogShaderCompilers: Display: Tracking 126 distinct input hashes that result in 93 distinct outputs (73.81%)
+[2022.02.24-19.10.29:930][832]LogShaderCompilers: Display: RAM used: 0.84 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.21%
+[2022.02.24-19.10.29:931][832]LogShaderCompilers: Display: ================================================
+[2022.02.24-19.10.40:124][576]LogTemp: Warning: Deform the mesh by directly manipulating (ie click-and-drag) the PolyGroup Edges/Faces/Vertices.
+[2022.02.24-19.10.52:786][480]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2022.02.24-19.10.52:786][480]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.24-19.10.54:428][597]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (TemplateFloor)
+[2022.02.24-19.10.56:133][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.24-19.10.59:329][931]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.02.24-19.10.59:330][931]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.24-19.11.01:635][110]Cmd: TRANSACTION UNDO
+[2022.02.24-19.11.01:635][110]LogEditorTransaction: Undo Replace component used material
+[2022.02.24-19.11.03:057][176]Cmd: TRANSACTION UNDO
+[2022.02.24-19.11.03:057][176]LogEditorTransaction: Undo Replace component used material
+[2022.02.24-19.11.03:789][202]Cmd: TRANSACTION UNDO
+[2022.02.24-19.11.03:789][202]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2022.02.24-19.11.13:045][824]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.02.24-19.11.13:045][824]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.24-19.11.17:037][847]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2022.02.24-19.11.17:037][847]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.02.24-19.11.20:358][856]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2022.02.24-19.11.20:358][856]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.02.24-19.11.24:324][856]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2022.02.24-19.11.24:324][856]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.02.24-19.12.01:393][898]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: 36588EBFF6B0E553AA55D029DA5B032BB9C407D9), compiling. 
+[2022.02.24-19.12.01:453][898]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.02.24-19.12.08:725][390]LogTemp: Warning: Retriangulate the selected Mesh. Use the Boundary Constraints to preserve mesh borders. Enable Discard Attributes to ignore UV/Normal Seams. 
+[2022.02.24-19.12.12:676][624]LogStaticMesh: Building static mesh TemplateFloor...
+[2022.02.24-19.12.12:860][624]LogStaticMesh: Built static mesh [0.18s] /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2022.02.24-19.12.15:354][762]LogTemp: Warning: Select Triangles to edit mesh. Q to toggle Gizmo Orientation Lock.
+[2022.02.24-19.13.02:067][146]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2022.02.24-19.13.02:067][146]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.24-19.13.16:277][556]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2022.02.24-19.13.16:277][556]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.24-19.13.19:822][757]LogTemp: Warning: Select Triangles to edit mesh. Q to toggle Gizmo Orientation Lock.
+[2022.02.24-19.13.55:552][822]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.02.24-19.13.55:552][822]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.24-19.13.55:661][822]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.24-19.13.55:662][822]LogShaderCompilers: Display: Total job queries 218, among them cache hits 6 (2.75%)
+[2022.02.24-19.13.55:662][822]LogShaderCompilers: Display: Tracking 171 distinct input hashes that result in 121 distinct outputs (70.76%)
+[2022.02.24-19.13.55:662][822]LogShaderCompilers: Display: RAM used: 1.32 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.32%
+[2022.02.24-19.13.55:662][822]LogShaderCompilers: Display: ================================================
+[2022.02.24-19.14.01:375][998]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2022.02.24-19.14.01:375][998]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.02.24-19.14.06:265][149]LogStaticMesh: Building static mesh TemplateFloor...
+[2022.02.24-19.14.06:474][149]LogStaticMesh: Built static mesh [0.21s] /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2022.02.24-19.14.09:389][325]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2022.02.24-19.14.09:389][325]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.02.24-19.14.20:359][921]LogMaterial: Display: Missing cached shadermap for M_Tech_Panel in PCD3D_SM5, Default, SM5 (DDC key hash: 9521C81FED8F1CAF2E2CBA711EB14181D2CA4D67), compiling. 
+[2022.02.24-19.14.20:402][921]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.02.24-19.14.36:062][449]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2022.02.24-19.14.36:063][449]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.24-19.15.07:941][ 89]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.02.24-19.15.07:941][ 89]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.24-19.15.32:819][550]LogTemp: Warning: Deform the mesh by directly manipulating (ie click-and-drag) the PolyGroup Edges/Faces/Vertices.
+[2022.02.24-19.15.35:267][710]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.02.24-19.15.35:267][710]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.24-19.16.06:244][945]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2022.02.24-19.16.06:244][945]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.24-19.16.06:864][994]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2022.02.24-19.16.06:865][994]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.02.24-19.16.08:977][ 72]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2022.02.24-19.16.08:977][ 72]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.02.24-19.16.33:281][743]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2022.02.24-19.16.33:281][743]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.02.24-19.16.54:197][691]LogTemp: Warning: Deform the mesh by directly manipulating (ie click-and-drag) the PolyGroup Edges/Faces/Vertices.
+[2022.02.24-19.17.00:657][118]LogTemp: Warning: Select PolyGroups to edit mesh. Q to toggle Gizmo Orientation Lock.
+[2022.02.24-19.17.24:673][662]LogTemp: Warning: Cluster triangles of the Mesh into PolyGroups using various strategies
+[2022.02.24-19.17.24:676][662]LogTemp: Warning: Found 46 Polygroups in 8,764 Triangles
+[2022.02.24-19.17.24:688][662]LogTemp: Warning: Found 46 Polygroups in 8,764 Triangles
+[2022.02.24-19.17.27:383][838]LogEditorViewport: Clicking on Actor (LMB): PreviewMeshActor (PreviewMeshActor19)
+[2022.02.24-19.17.27:986][872]LogEditorViewport: Clicking on Actor (LMB): PreviewMeshActor (PreviewMeshActor19)
+[2022.02.24-19.17.28:902][928]LogEditorViewport: Clicking on Actor (LMB): PreviewMeshActor (PreviewMeshActor19)
+[2022.02.24-19.17.29:387][955]LogEditorViewport: Clicking on Actor (LMB): PreviewMeshActor (PreviewMeshActor19)
+[2022.02.24-19.17.29:858][988]LogEditorViewport: Clicking on Actor (LMB): PreviewMeshActor (PreviewMeshActor19)
+[2022.02.24-19.17.33:458][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.24-19.17.34:287][336]LogTemp: Warning: Deform the mesh by directly manipulating (ie click-and-drag) the PolyGroup Edges/Faces/Vertices.
+[2022.02.24-19.17.45:053][ 60]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.02.24-19.17.45:053][ 60]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.02.24-19.17.45:069][ 60]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.24-19.17.45:070][ 60]LogShaderCompilers: Display: Total job queries 244, among them cache hits 7 (2.87%)
+[2022.02.24-19.17.45:070][ 60]LogShaderCompilers: Display: Tracking 217 distinct input hashes that result in 152 distinct outputs (70.05%)
+[2022.02.24-19.17.45:070][ 60]LogShaderCompilers: Display: RAM used: 2.04 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.50%
+[2022.02.24-19.17.45:070][ 60]LogShaderCompilers: Display: ================================================
+[2022.02.24-19.17.52:610][604]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.02.24-19.17.52:610][604]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.24-19.17.58:858][ 69]LogTemp: Warning: Press 'A' or use the Cut button to cut the mesh without leaving the tool.  When grid snapping is enabled, you can toggle snapping with the shift key.
+[2022.02.24-19.18.17:709][323]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.02.24-19.18.17:709][323]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.24-19.18.20:197][487]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.02.24-19.18.20:197][487]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.24-19.18.33:111][423]LogTemp: Warning: Hold Shift to Smooth, Ctrl to Invert (where applicable). [/] and S/D change Size (+Shift to small-step), W/E changes Strength.
+[2022.02.24-19.18.33:118][423]LogTemp: Warning: Hold Shift to Smooth, Ctrl to Invert (where applicable). [/] and S/D change Size (+Shift to small-step), W/E changes Strength.
+[2022.02.24-19.18.57:325][588]LogTemp: Warning: Hold Shift to Smooth, Ctrl to Invert (where applicable). [/] and S/D change Size (+Shift to small-step), W/E changes Strength.
+[2022.02.24-19.19.12:942][ 76]LogTemp: Warning: Smooths the mesh vertex positions using various smoothing methods.
+[2022.02.24-19.19.25:162][174]LogStaticMesh: Building static mesh TemplateFloor...
+[2022.02.24-19.19.25:299][174]LogStaticMesh: Built static mesh [0.14s] /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2022.02.24-19.19.27:781][360]LogTemp: Warning: Smooths the mesh vertex positions using various smoothing methods.
+[2022.02.24-19.20.18:078][137]LogTemp: Warning: Press 'A' or use the Cut button to cut the mesh without leaving the tool.  When grid snapping is enabled, you can toggle snapping with the shift key.
+[2022.02.24-19.20.21:575][452]LogTemp: Warning: Hold Shift to Smooth, Ctrl to Invert (where applicable). [/] and S/D change Size (+Shift to small-step), W/E changes Strength.
+[2022.02.24-19.20.21:580][452]LogTemp: Warning: Hold Shift to Smooth, Ctrl to Invert (where applicable). [/] and S/D change Size (+Shift to small-step), W/E changes Strength.
+[2022.02.24-19.20.39:786][ 43]LogTemp: Warning: Hold Shift to Smooth, Ctrl to Invert (where applicable). [/] and S/D change Size (+Shift to small-step), W/E changes Strength.
+[2022.02.24-19.20.48:579][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.24-19.21.10:339][700]LogTemp: Warning: Hold Shift to Smooth, Ctrl to Invert (where applicable). [/] and S/D change Size (+Shift to small-step), W/E changes Strength.
+[2022.02.24-19.22.13:880][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.02.24-19.22.14:030][834]LogSavePackage: Moving 'D:/Chris/UEprojects/Project2MaxChris/Saved/VRTemplateMap_Auto420BE63E442D0AB97C6533A93FEBF1C1C.tmp' to 'D:/Chris/UEprojects/Project2MaxChris/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto4.umap'
+[2022.02.24-19.22.14:038][834]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.177
+[2022.02.24-19.22.14:039][834]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.177
+[2022.02.24-19.22.14:039][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/TemplateFloor] ([1] browsable assets)...
+[2022.02.24-19.22.14:058][834]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/TemplateFloor.TemplateFloor]
+[2022.02.24-19.22.14:058][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/TemplateFloor]
+[2022.02.24-19.22.14:058][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/TemplateFloor" FILE="D:/Chris/UEprojects/Project2MaxChris/Saved/Autosaves/Game/Geometry/Meshes/TemplateFloor_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.02.24-19.22.14:183][834]LogSavePackage: Moving 'D:/Chris/UEprojects/Project2MaxChris/Saved/TemplateFloor_Auto4B41F45F14843B4E2586078BBC2E65892.tmp' to 'D:/Chris/UEprojects/Project2MaxChris/Saved/Autosaves/Game/Geometry/Meshes/TemplateFloor_Auto4.uasset'
+[2022.02.24-19.22.14:185][834]LogFileHelpers: Auto-saving content packages took 0.147
+[2022.02.24-19.22.28:697][195]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2022.02.24-19.23.07:079][796]LogTemp: Warning: Use this Tool to draw a polygon on the Drawing Plane, and Extrude it. Left-click to place points. Ctrl-click on the scene to reposition the Plane (Shift+Ctrl-click to ignore Normal). [A] toggles Gizmo. Hold Shift to ignore Snapping.
+[2022.02.24-19.23.23:161][332]Cmd: TRANSACTION UNDO
+[2022.02.24-19.23.23:161][332]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.24-19.23.27:675][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.02.24-19.23.33:245][308]LogTemp: Warning: Use this Tool to draw a polygon on the Drawing Plane, and Extrude it. Left-click to place points. Ctrl-click on the scene to reposition the Plane (Shift+Ctrl-click to ignore Normal). [A] toggles Gizmo. Hold Shift to ignore Snapping.
+[2022.02.24-19.24.30:079][782]LogTemp: Warning: Use this Tool to draw a polygon on the Drawing Plane, and Extrude it. Left-click to place points. Ctrl-click on the scene to reposition the Plane (Shift+Ctrl-click to ignore Normal). [A] toggles Gizmo. Hold Shift to ignore Snapping.
+[2022.02.24-19.25.10:650][501]LogTemp: Warning: Set the height of the Extrusion by positioning the mouse over the extrusion volume, or over the scene to snap to relative heights. Hold Shift to ignore Snapping.
+[2022.02.24-19.25.29:719][150]LogStaticMesh: Building static mesh Extrude_03B21835...
+[2022.02.24-19.25.29:760][150]LogStaticMesh: Built static mesh [0.04s] /Game/VRTemplate/Maps/_GENERATED/cblah/Extrude_03B21835.Extrude_03B21835
+[2022.02.24-19.25.29:798][150]LogTemp: Warning: Use this Tool to draw a polygon on the Drawing Plane, and Extrude it. Left-click to place points. Ctrl-click on the scene to reposition the Plane (Shift+Ctrl-click to ignore Normal). [A] toggles Gizmo. Hold Shift to ignore Snapping.
+[2022.02.24-19.26.48:205][428]LogTemp: Warning: Deform the vertices of the selected Mesh using various spatial deformations. Use the in-viewport Gizmo to control the extents/strength of the deformation.
+[2022.02.24-19.28.07:185][752]LogEditorViewport: Clicking on Actor (LMB): PreviewMeshActor (PreviewMeshActor30)
+[2022.02.24-19.28.07:203][752]LogEditorViewport: Clicking on Component (LMB): SimpleDynamicMeshComponent (SimpleDynamicMeshComponent_0)
+[2022.02.24-19.28.18:104][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (port wall)
+[2022.02.24-19.28.21:291][105]LogTemp: Warning: Deform the vertices of the selected Mesh using various spatial deformations. Use the in-viewport Gizmo to control the extents/strength of the deformation.
+[2022.02.24-19.29.57:947][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (port wall)
+[2022.02.24-19.30.02:027][  4]LogTemp: Warning: Deform the vertices of the selected Mesh using various spatial deformations. Use the in-viewport Gizmo to control the extents/strength of the deformation.
+[2022.02.24-19.31.01:313][229]LogTemp: Warning: Deform the vertices of the selected Mesh using various spatial deformations. Use the in-viewport Gizmo to control the extents/strength of the deformation.
+[2022.02.24-19.31.06:809][743]LogEditorViewport: Clicking on Actor (LMB): PreviewMeshActor (PreviewMeshActor33)
+[2022.02.24-19.32.03:218][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (port wall)
+[2022.02.24-19.32.05:341][319]Cmd: DUPLICATE
+[2022.02.24-19.32.05:341][319]Cmd: ACTOR DUPLICATE
+[2022.02.24-19.33.16:099][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="D:/Chris/UEprojects/Project2MaxChris/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.24-19.33.16:119][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.02.24-19.33.16:272][632]LogSavePackage: Moving 'D:/Chris/UEprojects/Project2MaxChris/Saved/VRTemplateMap401AF0864450B6C76F3CEAB5E0969970.tmp' to 'D:/Chris/UEprojects/Project2MaxChris/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.02.24-19.33.16:310][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap_BuiltData" FILE="D:/Chris/UEprojects/Project2MaxChris/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" SILENT=true
+[2022.02.24-19.33.16:517][632]LogSavePackage: Moving 'D:/Chris/UEprojects/Project2MaxChris/Saved/VRTemplateMap_BuiltData0D66802E410B0403E08E8CA10371A1B0.tmp' to 'D:/Chris/UEprojects/Project2MaxChris/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2022.02.24-19.33.16:540][632]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.24-19.33.16:540][632]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2022.02.24-19.33.16:540][632]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.02.24-19.33.28:322][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="D:/Chris/UEprojects/Project2MaxChris/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.24-19.33.28:395][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.02.24-19.33.28:551][817]LogSavePackage: Moving 'D:/Chris/UEprojects/Project2MaxChris/Saved/VRTemplateMap422D5BF64B3E0531CE8D0D9AC2528062.tmp' to 'D:/Chris/UEprojects/Project2MaxChris/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.02.24-19.33.28:585][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap_BuiltData" FILE="D:/Chris/UEprojects/Project2MaxChris/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" SILENT=true
+[2022.02.24-19.33.28:775][817]LogSavePackage: Moving 'D:/Chris/UEprojects/Project2MaxChris/Saved/VRTemplateMap_BuiltDataF10A321C47FEF6271D48EAADF9E22619.tmp' to 'D:/Chris/UEprojects/Project2MaxChris/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2022.02.24-19.33.28:790][817]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.24-19.33.28:790][817]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2022.02.24-19.33.28:790][817]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
