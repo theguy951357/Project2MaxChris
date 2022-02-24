@@ -1626,9 +1626,3 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.02.24-18.46.54:997][242]LogOutputDevice: Error: [Callstack] 0x00007ffb71ee2651 ntdll.dll!UnknownFunction []
 [2022.02.24-18.46.54:997][242]LogOutputDevice: Error: 
 [2022.02.24-18.46.54:997][242]LogStats:                SubmitErrorReport -  0.000 s
-[2022.02.24-18.47.00:922][242]LogStats:                    SendNewReport -  5.925 s
-[2022.02.24-18.47.00:922][242]LogStats:             FDebug::EnsureFailed -  6.071 s
-[2022.02.24-18.47.00:944][242]LogAudioMixer: Resetting audio stream to device id 
-[2022.02.24-18.47.00:961][242]LogAudioMixer: Display: 0: FrontLeft
-[2022.02.24-18.47.00:961][242]LogAudioMixer: Display: 1: FrontRight
-[2022.02.24-18.47.15:055][252]LogTemp: Warning: Smooths the mesh vertex positions using various smoothing methods.
